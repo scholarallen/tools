@@ -1,4 +1,4 @@
 # tools
-some commonly used functions for computer programming
+Some commonly used functions for computer programming
 
-written or collected by Allen. Wang
+Created by Allen. Wang in 05/18/2018
