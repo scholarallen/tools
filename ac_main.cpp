@@ -12,7 +12,7 @@ Date:
          05/01/2018
 		 
 Authors:
-         Allen Wang 
+         Allen Wang, Guokui Liu
 
 Any problems, please feel free to let me know. Thanks!
 E-mail: 
