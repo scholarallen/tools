@@ -1,3 +1,23 @@
+/**************************************************************************************************************************************
+Description: 
+        Calculate the autocorrelation function of one type vector(formed by two molecules) change with time. These molcules should be 
+given by an index file and its format similar with GROMACS format. 
+
+eg.
+1 3 5 7 9
+2 4 6 8 10
+As shown in above table, the will calculate the vector that were formed by (1,2), (3,4), ...., (9,10). 
+
+Date:
+         05/01/2018
+		 
+Authors:
+         Allen Wang 
+
+Any problems, please feel free to let me know. Thanks!
+E-mail: 
+         scholar_allen@yeah.net
+***************************************************************************************************************************************/
 
 #include <iostream>
 #include <fstream>
