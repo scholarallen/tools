@@ -6,7 +6,7 @@ given by an index file and its format similar with GROMACS format.
 eg.
 1 3 5 7 9
 2 4 6 8 10
-As shown in above table, the will calculate the vector that were formed by (1,2), (3,4), ...., (9,10). 
+As shown in above table, the code will calculate the vector that were formed by (1,2), (3,4), ...., (9,10). 
 
 Date:
          05/01/2018
